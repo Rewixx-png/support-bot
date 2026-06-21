@@ -14,4 +14,9 @@ bot/data/
 .vscode/
 *.log
 docker-compose.override.yml
-.DS_Store
+.DS_Store*.mp4
+*.zip
+*.pth
+*.tar.gz
+*.rar
+*.pth.tar
